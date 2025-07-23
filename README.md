@@ -262,13 +262,16 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### 🌟 Star the Repository
 If you find this project helpful, please give it a ⭐ on GitHub!
 
+[![GitHub stars](https://img.shields.io/github/stars/jonathanrao99/Titanic-Classification?style=social)](https://github.com/jonathanrao99/Titanic-Classification)
+
 ### 📞 Connect & Support
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonathanrao99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanrao99)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20me-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jonathanthota)
 
 ---
 
-**Made with ❤️ and ☕ by Data Science Enthusiast**
+**Made with ❤️ and ☕ by Jonathan Thota**
 
 *Predicting survival, one passenger at a time! 🚢*
 
