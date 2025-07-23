@@ -197,7 +197,7 @@ Titanic-Classification/
 
 ## 🔧 Technical Highlights
 
-### ✅ **What We Analyzed**
+### ✅ **What I Analyzed**
 - **12 features** including passenger demographics
 - **891 passengers** with complete survival data
 - **Multiple visualization types** (bar, scatter, box, pie charts)
